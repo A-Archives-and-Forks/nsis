@@ -6,6 +6,10 @@ Released on ???? ??th, ????
 
 \S1{v3.13-cl} Changelog
 
+\S2{} Translations
+
+\b Updated Italian
+
 \S2{} Build System
 
 \b TARGET_ARCH is used as the default makensis target (\W{http://sf.net/p/nsis/patches/314}{patch #314}, \W{http://sf.net/p/nsis/bugs/1294}{bug #1294})
